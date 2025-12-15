@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event guidelines saved successfully</name>
+   <tag></tag>
+   <elementGuidId>07295ea3-f73d-4f20-a2e2-5fb313b34a6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='messageDIV']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#messageDIV</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;× Event guidelines saved successfully.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>254323cb-c54d-43c1-94b4-c8e078ba2101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-success</value>
+      <webElementGuid>7aa25f23-378a-405b-b077-2b9d70755dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>messageDIV</value>
+      <webElementGuid>5c6418b9-f029-49bc-b314-c1c99408fdcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+											×
+											Event guidelines saved successfully.
+										</value>
+      <webElementGuid>2f578bee-9b82-4320-82cb-aa9e2a00cf5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;messageDIV&quot;)</value>
+      <webElementGuid>6cc19f73-ce8e-485d-b108-b287611eb70b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Event/iframe_Confirm_landingFrame</value>
+      <webElementGuid>867d5e0c-e458-4925-b786-c0443e74c78d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='messageDIV']</value>
+      <webElementGuid>8872a9dd-b434-4e3a-91ac-78478cc3627c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEvent']/div/div/div[3]/div/div</value>
+      <webElementGuid>ac808a2d-c08e-4a3e-85c7-b60e9b93157f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[2]/following::div[8]</value>
+      <webElementGuid>27ded98b-de46-44f7-ae9d-1a24387c58d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>18c44045-2d3d-4b8b-9c31-9f8a60653a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'messageDIV' and (text() = '
+											×
+											Event guidelines saved successfully.
+										' or . = '
+											×
+											Event guidelines saved successfully.
+										')]</value>
+      <webElementGuid>b2c1c178-c27e-4c80-aefd-f8e8c5723301</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

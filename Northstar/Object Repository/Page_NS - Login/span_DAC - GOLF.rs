@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DAC - GOLF</name>
+   <tag></tag>
+   <elementGuidId>2426abbe-935e-47c0-abd3-1216e144d163</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='v-pills-tab']/div/div/div/ul/li[4]/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;DAC - GOLF&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26545a45-1633-4625-bbbc-2da17f28add3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-site-name</value>
+      <webElementGuid>7fa971b9-63cf-4117-8ad6-26da3248b8a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAC - GOLF</value>
+      <webElementGuid>c0911f72-94e5-4986-83bc-ce9cf55ab348</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;v-pills-tab&quot;)/div[@class=&quot;fixedLeftNav&quot;]/div[@class=&quot;sites&quot;]/div[@class=&quot;dropdown siteDropdown custom-select&quot;]/ul[@class=&quot;custom-options change-site-from-menu show-options&quot;]/li[@class=&quot;dropdown-items&quot;]/a[@class=&quot;dropdown-item&quot;]/span[@class=&quot;item-site-name&quot;]</value>
+      <webElementGuid>2bbdcb4f-7dad-4591-84cc-552a5b64fd6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Login/iframe_Powered by Northstar Club Management_21cbe3</value>
+      <webElementGuid>fcb92074-fe36-4e9e-93d3-98f17bcc54e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='v-pills-tab']/div/div/div/ul/li[4]/a/span[2]</value>
+      <webElementGuid>eaa50729-e6bf-48ce-a1f0-9f6d52602f14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAC - FITNESS &amp; MASSAGE'])[5]/following::span[2]</value>
+      <webElementGuid>33b47618-5f0c-4288-aa16-081d66ecdc13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAC - F&amp;B'])[5]/following::span[4]</value>
+      <webElementGuid>e6b2d3f0-08ce-41ca-8253-985085619cb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAC - TENNIS'])[5]/preceding::span[2]</value>
+      <webElementGuid>7fb9c10b-9538-4996-9fb8-535e0fd04192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test - Default Site'])[5]/preceding::span[4]</value>
+      <webElementGuid>a12748bd-044d-4405-9070-45c1c7dc0b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/span[2]</value>
+      <webElementGuid>a5cecbba-c97d-45b5-82fb-42f0d3c94c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DAC - GOLF' or . = 'DAC - GOLF')]</value>
+      <webElementGuid>d78b9a57-1c18-47e3-852d-ae4e3907613a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

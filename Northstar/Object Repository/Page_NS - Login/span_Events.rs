@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Events</name>
+   <tag></tag>
+   <elementGuidId>52a2d170-70bb-4f32-a8c5-1ab211357251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module-23-nav']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#module-23-nav > div.moduleNameDiv > span.module-names</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#module-23-nav >> internal:text=&quot;Events&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4f34f9ab-3015-441b-984d-3a729bd3db41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-names</value>
+      <webElementGuid>5b45f94d-d231-4e4e-878a-071e4f86a76a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Events</value>
+      <webElementGuid>51184245-e99d-4499-aa3b-d59a6ddd4900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module-23-nav&quot;)/div[@class=&quot;moduleNameDiv&quot;]/span[@class=&quot;module-names&quot;]</value>
+      <webElementGuid>1c445fe7-8c53-42af-8ae8-a0831c561a0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Login/iframe_Powered by Northstar Club Management_21cbe3</value>
+      <webElementGuid>7435983a-3e98-4d0f-b41f-55c88f78eb84</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module-23-nav']/div/span[2]</value>
+      <webElementGuid>986d3b8e-ae6a-4ad4-bb07-6dd6e4d5dea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dining'])[4]/following::span[2]</value>
+      <webElementGuid>861d9ddf-c3bc-4d73-bc29-62eb2a2a7db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[4]/following::span[4]</value>
+      <webElementGuid>e74984c6-4a12-433f-8a57-f021bcb63eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='F&amp;B POS'])[8]/preceding::span[2]</value>
+      <webElementGuid>f05b4db7-12bb-49f3-90bd-ece7629f9a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Front Desk'])[4]/preceding::span[4]</value>
+      <webElementGuid>8a18be46-bf0c-4211-8a1a-acac3942c563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/span[2]</value>
+      <webElementGuid>ca179bea-f9c3-42b3-8775-fc4aea097945</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Events' or . = 'Events')]</value>
+      <webElementGuid>d7d06346-6527-4cc1-94d3-1036efce1a99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Course with 18 hole, Resource Use as &quot;Optional,&quot; and Without EZLinks Property</description>
+   <name>Teetime12875</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30cba159-84d4-4002-b7e9-873506193148</testCaseGuid>
+</TestCaseEntity>

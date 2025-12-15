@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Payment type with Check Type</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc52fe24-a85b-4f72-b791-8727827f2514</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc2ee0b3-08c3-4349-8b9c-ac5df6a9cfd1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0a359044-3d52-4a77-b67a-027f21da17da</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'su'</defaultValue>
+      <description></description>
+      <id>fc2ee0b3-08c3-4349-8b9c-ac5df6a9cfd1</id>
+      <masked>true</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'subhan'</defaultValue>
+      <description></description>
+      <id>0a359044-3d52-4a77-b67a-027f21da17da</id>
+      <masked>false</masked>
+      <name>namePayType</name>
+   </variable>
+</TestCaseEntity>

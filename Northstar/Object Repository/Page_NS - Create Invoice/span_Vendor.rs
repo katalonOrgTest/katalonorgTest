@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Vendor</name>
+   <tag></tag>
+   <elementGuidId>00f79653-cdb7-428a-ad1d-8f582520e169</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='There are 125 Finalized Invoice Received Items.'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vendor&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>730de383-e791-478f-aa12-51fb50c8334f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content</value>
+      <webElementGuid>acdb4e24-acec-427c-9cc2-61970df289ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vendor</value>
+      <webElementGuid>fc590b5a-1295-4c91-b56b-183d839b0f25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;new-ui container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;borderedTable&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[@class=&quot;content&quot;]/td[1]/div[@class=&quot;gwt-Label&quot;]/span[@class=&quot;content&quot;]</value>
+      <webElementGuid>0038b7a9-0d3d-435c-92c4-768c7628a484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Create Invoice/iframe_Confirm_landingFrame</value>
+      <webElementGuid>cc526e19-191a-4f13-b4f1-8bf3f0cd0e51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='There are 125 Finalized Invoice Received Items.'])[1]/following::span[1]</value>
+      <webElementGuid>db093ee6-74e5-497e-b755-0518b1c00552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>8f8e2b5a-6f25-4659-ba66-cca1ed2259ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payable Type'])[1]/preceding::span[2]</value>
+      <webElementGuid>93a0d509-5c8c-48b9-a6fe-aaa786ff35d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vendor']/parent::*</value>
+      <webElementGuid>bac8043d-a02d-43cf-8a24-39c34bc37deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/span</value>
+      <webElementGuid>1d16565b-d44c-4507-a544-a8e3a1759be5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vendor' or . = 'Vendor')]</value>
+      <webElementGuid>d7cb33a6-c49f-401a-8b48-7b7bec8c132c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

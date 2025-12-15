@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SundayMondayTuesdayWednesdayThursday_f29a2d</name>
+   <tag></tag>
+   <elementGuidId>ef051e03-1305-4850-a73b-58a4afcc307a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='selectedCourseRateDays']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selectedCourseRateDays</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#selectedCourseRateDays</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>caf2cfef-b73c-4b51-9043-7a30d843d13f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>selectedCourseRateDays</value>
+      <webElementGuid>d34fc085-cc6f-40aa-b00c-f87e11c9a91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>multiple</name>
+      <type>Main</type>
+      <value>multiple</value>
+      <webElementGuid>ec7b19ed-3675-4f23-ab7d-0721280d7437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>selectedCourseRateDays</value>
+      <webElementGuid>4d905ea3-b088-453b-b16a-9cdece0f7c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8c0cdd05-5bc0-4f09-9284-f714a336bea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday</value>
+      <webElementGuid>e5349410-ca1f-438c-af6c-e10e5ab58739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selectedCourseRateDays&quot;)</value>
+      <webElementGuid>722dc0a5-8659-49b3-bbd5-81e39bcd02ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Course Setup/iframe_Confirm_landingFrame</value>
+      <webElementGuid>a92a5030-115e-4057-9b0c-3cebf4fc1703</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='selectedCourseRateDays']</value>
+      <webElementGuid>e23bd96f-6221-4ebe-84c3-35268b928953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Days'])[1]/following::select[1]</value>
+      <webElementGuid>104669bd-17b0-4884-98dc-798cc04e29f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rate Name'])[1]/following::select[1]</value>
+      <webElementGuid>21579df4-1623-436f-baf3-c4589670949d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid From'])[1]/preceding::select[1]</value>
+      <webElementGuid>8516d166-e3d0-4b8b-a6ea-e33d2a588a59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Course Name'])[1]/preceding::select[1]</value>
+      <webElementGuid>89e6af7a-6ad5-4e02-ba5c-ad8fc4c04391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>357e7b85-2578-4da3-8f8f-12945fbf79b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'selectedCourseRateDays' and @id = 'selectedCourseRateDays' and (text() = 'Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday' or . = 'Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday')]</value>
+      <webElementGuid>0a1ce51d-178d-4b94-8927-bd07f2662c1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

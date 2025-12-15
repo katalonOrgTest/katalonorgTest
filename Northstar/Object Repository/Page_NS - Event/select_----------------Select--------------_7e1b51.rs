@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_----------------Select--------------_7e1b51</name>
+   <tag></tag>
+   <elementGuidId>a0192e9b-7144-48bb-845a-dfed3d9352a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='eventStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eventStatus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#eventStatus</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c45cb213-1dda-4323-a931-bb8cbdc891cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>eventStatus</value>
+      <webElementGuid>cb4fc1eb-ba68-40bb-927b-4f82cbb659ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>checkIsValidStatus(this);</value>
+      <webElementGuid>5f5c4437-8e90-48cf-8c07-fdcf4d448b9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eventStatus</value>
+      <webElementGuid>364a4c5b-9ab1-45e9-9724-5933c6a86e4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>74433b2f-a48f-4a3b-ba4b-00bd2c4e6e5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_oldvalue</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>e84b4e30-1474-4ed3-b302-00e209ce6991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>----------------Select----------------
+												Draft
+Open for Reservations
+Closed for Reservations
+No Registration Required</value>
+      <webElementGuid>63f7607d-6399-44ad-bd6f-de4bc6076073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eventStatus&quot;)</value>
+      <webElementGuid>56ecccb1-040d-4bc3-a161-b3361647f3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Event/iframe_Confirm_landingFrame</value>
+      <webElementGuid>4f047931-6190-458a-8b33-d94fc236e478</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='eventStatus']</value>
+      <webElementGuid>4d3be6bc-bd25-404b-8837-d5145c88b810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmEvent']/div/div/div[3]/div/div[5]/select</value>
+      <webElementGuid>bec6c577-a6ba-4557-b198-2060fe2ed448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::select[1]</value>
+      <webElementGuid>b786a52c-66b0-4cb2-aa00-8eec5d1c782b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coordinator'])[1]/preceding::select[1]</value>
+      <webElementGuid>8c565684-8378-45e5-b387-46038014af28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>40be00d0-dc97-4ac0-a41e-ff714de46b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'eventStatus' and @id = 'eventStatus' and (text() = '----------------Select----------------
+												Draft
+Open for Reservations
+Closed for Reservations
+No Registration Required' or . = '----------------Select----------------
+												Draft
+Open for Reservations
+Closed for Reservations
+No Registration Required')]</value>
+      <webElementGuid>5fe08f1f-fff9-442d-af63-77342c45bbce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

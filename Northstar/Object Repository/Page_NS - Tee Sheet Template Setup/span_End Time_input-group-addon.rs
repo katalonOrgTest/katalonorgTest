@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_End Time_input-group-addon</name>
+   <tag></tag>
+   <elementGuidId>e3438f71-f6f0-4608-91c3-24392b080db5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='templateDetails']/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td/table/tbody/tr[3]/td[2]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#templateDetails div >> internal:has-text=&quot;End Time&quot;i >> div span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e00d1402-fd61-4b15-bb7e-62a5404b4435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-group-addon</value>
+      <webElementGuid>71213a8c-7b2e-40f4-bc85-31f21ce07b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;templateDetails&quot;)/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[@class=&quot;row-fluid&quot;]/td[@class=&quot;col-md-3 col-sm-3 col-lg-3&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon&quot;]</value>
+      <webElementGuid>c6d3fd13-4acb-496d-a253-60b098b5c207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Tee Sheet Template Setup/iframe_Confirm_landingFrame</value>
+      <webElementGuid>8d0f80b1-d311-41a2-bcc3-c99b67b997d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='templateDetails']/tbody/tr/td/table/tbody/tr[3]/td/table/tbody/tr/td/table/tbody/tr[3]/td[2]/div/div/span</value>
+      <webElementGuid>61771c4f-8623-490f-9c6b-e3409393a03e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Time'])[3]/following::span[1]</value>
+      <webElementGuid>02955a1d-7e3e-4ab3-a9bd-2167033a5e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Time'])[3]/following::span[3]</value>
+      <webElementGuid>e002e5a2-0329-4603-a373-ff8c7b0c50ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[3]/preceding::span[1]</value>
+      <webElementGuid>18496595-0674-4874-80d5-02cb60314138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[2]/preceding::span[1]</value>
+      <webElementGuid>7097b55e-a0c6-4832-a2cc-210d533dc324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/div/span</value>
+      <webElementGuid>73c3326b-7a4f-4bc4-992b-f24d50cbc182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

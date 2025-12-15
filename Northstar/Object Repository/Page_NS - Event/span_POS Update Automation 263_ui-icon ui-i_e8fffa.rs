@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_POS Update Automation 263_ui-icon ui-i_e8fffa</name>
+   <tag></tag>
+   <elementGuidId>5991794f-ae56-4bba-aed4-a0d7e4c56615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ptTimeSelectCloseCntr']/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-check</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7e729c84-5867-4db5-876c-b2315104be15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-check</value>
+      <webElementGuid>47790184-ce4f-4dce-bedb-78224da05b26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ptTimeSelectCloseCntr&quot;)/div[@class=&quot;col-sm-1 col-md-1 col-lg-1&quot;]/a[@class=&quot;ui-corner-all ui-state-hover&quot;]/span[@class=&quot;ui-icon ui-icon-check&quot;]</value>
+      <webElementGuid>e17519ba-e836-46f0-9819-01327c458422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Event/iframe_Add Event Session and schedules_Dial_b9696d</value>
+      <webElementGuid>690ebc05-c2ca-4d91-a154-06c32622fab3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ptTimeSelectCloseCntr']/div/a/span</value>
+      <webElementGuid>134cb3ed-ac12-4ce9-98a8-d27be49f6a6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/preceding::span[3]</value>
+      <webElementGuid>89121d73-0b62-49c8-b6e6-0d3f4caa02dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>f3b900f6-2e20-4621-9c88-3f16da647ca4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tee Time</name>
+   <tag></tag>
+   <elementGuidId>ac33921f-f2bf-49da-ae7e-e7a5eea418b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module-21-nav']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#module-21-nav > div.moduleNameDiv > span.module-names</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#module-21-nav >> internal:text=&quot;Tee Time&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9e634f2d-26e5-4a24-aa5f-f4f6ddc7da75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-names</value>
+      <webElementGuid>931d139a-750e-49c1-a63c-1a457f2e00ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tee Time</value>
+      <webElementGuid>185d04d7-1a41-4048-9756-edb43f5ae1ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module-21-nav&quot;)/div[@class=&quot;moduleNameDiv&quot;]/span[@class=&quot;module-names&quot;]</value>
+      <webElementGuid>b316db8b-bf1d-441a-8c57-d335d833ec64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Login/iframe_Powered by Northstar Club Management_21cbe3</value>
+      <webElementGuid>02a6d88d-b74e-4ed0-b596-b6b2567395ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module-21-nav']/div/span[2]</value>
+      <webElementGuid>ae7372a3-4939-4608-8777-5d0f3725596b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RPOS'])[4]/following::span[2]</value>
+      <webElementGuid>7f5f3464-d484-4caa-8694-69f7b54181ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rooms'])[4]/following::span[4]</value>
+      <webElementGuid>e5919357-804e-4e72-ab1f-b8586d539633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timekeeping'])[4]/preceding::span[2]</value>
+      <webElementGuid>f4ea8883-37f4-4711-96ae-fb2fbf5b3f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Order'])[4]/preceding::span[4]</value>
+      <webElementGuid>9e57642c-9980-4569-a873-f21eaa9a2e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div/span[2]</value>
+      <webElementGuid>6767be26-93e5-4507-ae5f-12ae6d99f426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tee Time' or . = 'Tee Time')]</value>
+      <webElementGuid>6ec207e8-c6a2-4e50-981d-967ceb1a0c66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

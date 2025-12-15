@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Accounts Payable</name>
+   <tag></tag>
+   <elementGuidId>a280a690-fddc-4282-97ac-9268f63423d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module-4-nav']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.module-names</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#module-4-nav >> internal:text=&quot;Accounts Payable&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af103bd7-6a78-4a3c-b0d5-c8e82d78897f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-names</value>
+      <webElementGuid>28768bce-13f2-4280-83ed-96ee7d2198fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accounts Payable</value>
+      <webElementGuid>7673b887-5601-45f0-b2c9-cc516236834a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module-4-nav&quot;)/div[@class=&quot;moduleNameDiv&quot;]/span[@class=&quot;module-names&quot;]</value>
+      <webElementGuid>ceefd798-d171-43ff-9e76-5faea11f1f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Login/iframe_Powered by Northstar Club Management_21cbe3</value>
+      <webElementGuid>482f12d7-3ef2-4682-a5c3-30216028400e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module-4-nav']/div/span[2]</value>
+      <webElementGuid>f41f90e8-cf67-4224-a0a9-949007fa19f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='active module search'])[1]/following::span[2]</value>
+      <webElementGuid>b74b33bc-212a-494f-bd15-dd7c806cee7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Sites'])[2]/following::span[3]</value>
+      <webElementGuid>0044cb4c-5b90-4d72-9595-e3757a0437b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounts Receivable'])[4]/preceding::span[2]</value>
+      <webElementGuid>e62bb0ef-d20e-4c6d-be41-7ffc762dc461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[4]/preceding::span[4]</value>
+      <webElementGuid>05952cd2-c983-4d72-b7c3-021eac34bafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span[2]</value>
+      <webElementGuid>7bca7a5e-23e0-48e8-9641-5a5a043e4445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Accounts Payable' or . = 'Accounts Payable')]</value>
+      <webElementGuid>2c438731-e5d7-46e7-a602-3e066d1b2dd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

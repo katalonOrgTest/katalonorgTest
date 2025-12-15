@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__gwt-TextBox form-control input-sm_2</name>
+   <tag></tag>
+   <elementGuidId>badd6e41-0d08-459e-a3c6-cf7bf9894829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='search'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Amount *&quot;s] >> internal:role=searchbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>323a95bd-dbc9-40fa-94ea-36ed8c69bcf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>790eb7de-90ad-4452-822c-c6286bbe47cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-TextBox form-control input-sm</value>
+      <webElementGuid>7b4b5617-33aa-403a-8a50-e360a0aabce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>559b62f7-3a08-4403-963b-95a104977478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;new-ui container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;borderedTable&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[@class=&quot;content&quot;]/td[2]/input[@class=&quot;gwt-TextBox form-control input-sm&quot;]</value>
+      <webElementGuid>877486ec-8be4-43a3-920d-68bd7a2c3bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Create Invoice/iframe_Confirm_landingFrame</value>
+      <webElementGuid>932967a7-fe25-4f11-a964-190da86fd18f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='search'])[4]</value>
+      <webElementGuid>fbd1a4f1-9148-420e-84ea-d30c80bedef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/input</value>
+      <webElementGuid>44c3d5b4-6c74-4b97-a937-19b4ed75b876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search']</value>
+      <webElementGuid>131f44a9-b7de-41d3-b980-0889f42e0933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

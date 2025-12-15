@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_00-d1005-operating - inwood natl bank_1</name>
+   <tag></tag>
+   <elementGuidId>ffa36ca9-dda9-467d-a39f-5e47610b8712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id = 'gwt-uid-112' and (text() = concat(&quot;00-d1005-operating - inwood nat&quot; , &quot;'&quot; , &quot;l bank&quot;) or . = concat(&quot;00-d1005-operating - inwood nat&quot; , &quot;'&quot; , &quot;l bank&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>4c63259b-60c4-466f-92bf-370b9cebe9b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item</value>
+      <webElementGuid>f2104fb1-6434-4a41-8bef-5e8d163e5724</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>gwt-uid-112</value>
+      <webElementGuid>e9a1a6f7-9970-43da-bf18-02cb26c5e9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>menuitem</value>
+      <webElementGuid>138df7cf-99da-44f0-abe6-7fa2cabe4d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>3cf43783-d4e0-4421-8ae3-5e54e9d7edf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00-d1005-operating - inwood nat'l bank</value>
+      <webElementGuid>134c07a2-12e5-4450-8a56-1def82ad6a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;gwt-SuggestBoxPopup&quot;]/div[1]/table[1]/tbody[1]/tr[@class=&quot;suggestPopupMiddle&quot;]/td[@class=&quot;suggestPopupMiddleCenter&quot;]/div[@class=&quot;suggestPopupMiddleCenterInner suggestPopupContent&quot;]/div[1]/table[1]/tbody[1]/tr[1]/td[@id=&quot;gwt-uid-112&quot;]</value>
+      <webElementGuid>64e8dd6f-9396-40e4-b27a-d4f4146816d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Create Invoice/iframe_Confirm_landingFrame</value>
+      <webElementGuid>b96aea73-71bb-4fd3-8296-458140e511a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'gwt-uid-112' and (text() = concat(&quot;00-d1005-operating - inwood nat&quot; , &quot;'&quot; , &quot;l bank&quot;) or . = concat(&quot;00-d1005-operating - inwood nat&quot; , &quot;'&quot; , &quot;l bank&quot;))]</value>
+      <webElementGuid>4adaf00d-8402-46f1-a30b-99c2e89f1a0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

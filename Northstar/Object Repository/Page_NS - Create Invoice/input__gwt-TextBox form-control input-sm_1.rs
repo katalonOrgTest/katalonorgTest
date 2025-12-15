@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__gwt-TextBox form-control input-sm_1</name>
+   <tag></tag>
+   <elementGuidId>9d546450-ba1e-4b20-a332-9dccf45de01a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Amount *&quot;s] >> internal:role=searchbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>32cd92af-06eb-4609-b3a5-d420230d3d32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>ca67f668-89d1-48c3-aa82-0731dc9bc3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-TextBox form-control input-sm</value>
+      <webElementGuid>48b409a3-4de3-485c-8911-958aa0dc2783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>12</value>
+      <webElementGuid>c50d42c2-8f24-4c66-9887-ace0b70c2a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;new-ui container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;borderedTable&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[@class=&quot;content&quot;]/td[2]/input[@class=&quot;gwt-TextBox form-control input-sm&quot;]</value>
+      <webElementGuid>cef1f796-67e5-423c-a87b-73239aca2812</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Create Invoice/iframe_Confirm_landingFrame</value>
+      <webElementGuid>0ecc174c-9ff6-4086-9b9b-23ec532fda69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='search'])[3]</value>
+      <webElementGuid>b183e27f-0f1b-43f2-8450-66d1c1a6c591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/input</value>
+      <webElementGuid>c3068462-c38a-428a-a51f-9bcdfdadbb35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search']</value>
+      <webElementGuid>e80a859c-dbc7-436b-b7ba-3fc76d2dc602</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

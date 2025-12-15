@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No Rates defined_buttonStatus</name>
+   <tag></tag>
+   <elementGuidId>2cebe615-73b7-4862-8fd4-1325247a50fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='buttonStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;buttonStatus&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add New Rate&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3575954b-25fc-478f-80f0-a923d28e35e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a489ab11-5f30-4258-8488-c7762e027cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>buttonStatus</value>
+      <webElementGuid>1d3d95d2-38d1-4180-ad4c-86e1165da773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Add New Rate</value>
+      <webElementGuid>f6eb9f68-e064-4af7-9797-308bc31683ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addNewRates()</value>
+      <webElementGuid>9d3402b3-78ce-416d-beb6-b6ad5d2e0707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-sm btn-primary</value>
+      <webElementGuid>ef6d838b-ae28-4f18-a844-f34ee9628f90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/form[1]/div[@class=&quot;new-ui&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-lg-12&quot;]/input[@class=&quot;btn btn-sm btn-primary&quot;]</value>
+      <webElementGuid>36851898-69d7-48ea-aae3-f076232e3faa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Course Setup/iframe_Blocked Times_courseRateFrame</value>
+      <webElementGuid>f3f3b397-e5dd-415e-a38f-b3083b3fbb0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='buttonStatus']</value>
+      <webElementGuid>43578638-2d25-4f0b-914a-3d993164ed1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/input</value>
+      <webElementGuid>981ade54-f354-43a1-8d8d-3030c8d80f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'button' and @name = 'buttonStatus']</value>
+      <webElementGuid>1a4aab07-de54-4986-854f-8ca05504adec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

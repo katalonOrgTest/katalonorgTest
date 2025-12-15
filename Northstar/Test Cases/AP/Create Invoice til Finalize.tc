@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Invoice til Finalize</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfebc844-a006-4d19-9163-8b48f3c74b4c</testCaseGuid>
+</TestCaseEntity>

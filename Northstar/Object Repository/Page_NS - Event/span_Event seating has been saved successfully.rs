@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Event seating has been saved successfully</name>
+   <tag></tag>
+   <elementGuidId>09ac4e8f-8fc7-4b17-9d21-4cf7b5978e74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='eventMessageTD'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#messageDIV > #eventMessageTD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Event seating has been saved successfully.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2f859db-ce37-476e-82d6-252bd25bc26b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>eventMessageTD</value>
+      <webElementGuid>a2f53f2b-b309-441d-b3e0-32587b5a22b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event seating has been saved successfully.</value>
+      <webElementGuid>259facd3-5ce2-4fe5-8332-99b3b4a8e5ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;messageDIV&quot;)/span[@id=&quot;eventMessageTD&quot;]</value>
+      <webElementGuid>849d1623-2cc4-4b61-ad2d-f6c96fa49092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Event/iframe_Confirm_landingFrame</value>
+      <webElementGuid>934f6e68-de75-487e-945a-7e91e97551b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='eventMessageTD'])[2]</value>
+      <webElementGuid>3ac68529-499c-4ccd-a3a4-b135afd77928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='messageDIV']/span</value>
+      <webElementGuid>b2885132-ed3c-4dbd-bdd7-176c34e90727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[2]/following::span[3]</value>
+      <webElementGuid>f231cb08-b9d2-416c-bfb7-2726bf4b4818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>a85ec7ef-be1a-46d0-9414-ae079982bf83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event seating has been saved successfully.']/parent::*</value>
+      <webElementGuid>45cb6732-5cfa-42b4-95be-06887e0c3171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span</value>
+      <webElementGuid>145a600f-5007-46be-aa5d-de3f3b18746b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'eventMessageTD' and (text() = 'Event seating has been saved successfully.' or . = 'Event seating has been saved successfully.')]</value>
+      <webElementGuid>ba15c510-0fa8-4ede-8d72-039171e98d6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

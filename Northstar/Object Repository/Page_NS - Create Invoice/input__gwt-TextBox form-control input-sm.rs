@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__gwt-TextBox form-control input-sm</name>
+   <tag></tag>
+   <elementGuidId>d90e17c7-edbb-4e06-a4c5-c2a4d6b9d24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.gwt-TextBox.form-control.input-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='search'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Invoice # * Due Date *&quot;s] >> internal:role=searchbox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>4ada40f2-97b8-4c20-b934-0fb68c81cd07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>search</value>
+      <webElementGuid>5b89192d-68ce-4f86-95e5-642f971c23c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-TextBox form-control input-sm</value>
+      <webElementGuid>74748640-5796-4c42-8dd0-77de9beb53b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>c0de02fc-2bde-409c-bd03-a2fe574117a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;new-ui container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/table[@class=&quot;borderedTable&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[@class=&quot;content&quot;]/td[2]/input[@class=&quot;gwt-TextBox form-control input-sm&quot;]</value>
+      <webElementGuid>fd6e187d-ead6-4547-8b5f-24b6de20ea0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Create Invoice/iframe_Confirm_landingFrame</value>
+      <webElementGuid>b6c4d8db-ff46-4c65-94c4-247d25ecd78a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='search'])[3]</value>
+      <webElementGuid>9b0d74be-65c6-4579-bbbd-22ff49cae01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/input</value>
+      <webElementGuid>5c331099-c956-4f13-ab97-dbe0429e67ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'search']</value>
+      <webElementGuid>32c910b7-d117-474d-85ba-ef2d7eccd788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

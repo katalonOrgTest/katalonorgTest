@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inventory</name>
+   <tag></tag>
+   <elementGuidId>356a1e21-54a2-43c0-b2c2-16dd1bf64b7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#module-8-nav > div.moduleNameDiv > span.module-names</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='module-8-nav']/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#module-8-nav >> internal:text=&quot;Inventory&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8975b462-9061-4b1d-bb79-599190ee1da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-names</value>
+      <webElementGuid>36d743a1-4048-4f51-bbb4-0f7c3550775a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inventory</value>
+      <webElementGuid>6dd9077b-5afb-4e58-9c1e-f4c38cb04b5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;module-8-nav&quot;)/div[@class=&quot;moduleNameDiv&quot;]/span[@class=&quot;module-names&quot;]</value>
+      <webElementGuid>6703fe5f-1556-45d5-be5e-8777b1e84cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Locker Revenue Report/iframe_Powered by Northstar Club Management_21cbe3</value>
+      <webElementGuid>8d6a214b-7357-4be7-8a11-b8d2cd5aabde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='module-8-nav']/div/span[2]</value>
+      <webElementGuid>cfc7d701-42f3-4a75-bde6-86d490b92f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[4]/following::span[2]</value>
+      <webElementGuid>7ee6aa56-b974-487e-b07d-594642afb293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activities'])[4]/following::span[4]</value>
+      <webElementGuid>552ee653-5913-4301-8710-1b760f53fadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lockers'])[7]/preceding::span[2]</value>
+      <webElementGuid>4e4166d0-80d4-4a6a-a8b5-1cff7fb51d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NS Analytics'])[4]/preceding::span[4]</value>
+      <webElementGuid>46c02a6f-3b80-4f65-92cc-43cb08d4f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span[2]</value>
+      <webElementGuid>d2636f7c-e68d-4bab-80e6-385045a24470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inventory' or . = 'Inventory')]</value>
+      <webElementGuid>9c25069f-e7e4-49ac-b86d-fda16ae6a854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

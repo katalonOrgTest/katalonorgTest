@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>5dc042af-1e2f-4a83-adbb-bb0c32fb8bec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a3006b98-e7fa-4c9c-91d4-ba2bc6571e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>../ui-layer/classic/images/calendar.png</value>
+      <webElementGuid>3832b7a5-4617-4c1d-9dc6-8682977e56c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>border</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>470b32aa-b7e1-42cb-b801-78d7b70ffc72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;new-ui&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-lg-6&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;input-group-addon&quot;]/a[1]/img[1]</value>
+      <webElementGuid>a5fc4661-737a-46b9-b706-2cdff36e7bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_NS - Course Setup/iframe_Confirm_landingFrame</value>
+      <webElementGuid>b1e49f28-4acc-4a5c-87e0-aa6aecf4e110</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>f1b98077-5af8-4867-b11f-207e01f36791</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '../ui-layer/classic/images/calendar.png']</value>
+      <webElementGuid>b95cd6f3-0129-4da3-8917-2b32b999650a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
