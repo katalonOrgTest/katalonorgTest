@@ -13,7 +13,7 @@
       <name>class</name>
       <type>Main</type>
       <value>android.widget.ImageView</value>
-      <webElementGuid>b2440427-8d56-4d7a-b0f0-8913dc3c367d</webElementGuid>
+      <webElementGuid>92c406d6-aaa1-4105-a4f0-2c2b362dba6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>067f8193-7548-4d3a-8b35-3452ea615bb0</webElementGuid>
+      <webElementGuid>47207bbe-6a2d-421c-aad2-c4a34b66e8ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -29,7 +29,7 @@
       <name>resource-id</name>
       <type>Main</type>
       <value>com.sibisoft.clubnowautomation:id/imgMenu</value>
-      <webElementGuid>e52540f5-2c92-4d40-84f1-4d307ead607d</webElementGuid>
+      <webElementGuid>68e9173c-5928-4a34-9dcd-bcaaea24510c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>package</name>
       <type>Main</type>
       <value>com.sibisoft.clubnowautomation</value>
-      <webElementGuid>63441870-d4f8-48dd-8004-db4b0e95b27a</webElementGuid>
+      <webElementGuid>d9cd4b82-06b5-496f-b3e9-73ac080e5fce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>checkable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c17f363e-a64d-4f6a-9f72-57cb411bbf58</webElementGuid>
+      <webElementGuid>39ffb4ac-1085-496c-8998-f2b10e7cbd34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>checked</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>4ba4c582-51b4-41a4-b73d-d0a0b52f2697</webElementGuid>
+      <webElementGuid>da74fa5d-180f-475c-ac1a-b5f7b93dba1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>343c4fcd-0e27-4caf-be7d-27aa3182ec29</webElementGuid>
+      <webElementGuid>64ae85b7-adc7-4d9c-8a35-98149bdd3c13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>886a4bb8-87ec-4409-b29a-0e73914d0404</webElementGuid>
+      <webElementGuid>b09d3835-c2d3-4e92-b5d6-886abf8038ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>a9525dba-cb96-4219-b097-a96faf4101a5</webElementGuid>
+      <webElementGuid>317f7b5c-899a-4796-8ef8-c56a5c6412ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>focused</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c80d5038-3061-4dff-9dae-194bfb543992</webElementGuid>
+      <webElementGuid>6ad6cc6e-3999-428a-9680-b6447ea897ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>scrollable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>63187dee-cd34-489a-b5fb-f26812e72053</webElementGuid>
+      <webElementGuid>af4ba65c-eb1c-4593-9587-75ef8d52bf82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>long-clickable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c83a6600-1b22-45ba-b25f-59122edd61e4</webElementGuid>
+      <webElementGuid>6535eaba-d7df-49f8-b6f2-7c79ebe6d59a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>password</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>56fa039e-e471-4c4c-ab08-b0f03e734951</webElementGuid>
+      <webElementGuid>b0b72801-773a-40ac-8e4f-a3905a2b7924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>da4eef1a-2d62-4c9b-bfd1-dcbdfa59db6c</webElementGuid>
+      <webElementGuid>070079c0-1309-4037-bab4-20754841422c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>x</name>
       <type>Main</type>
       <value>1236</value>
-      <webElementGuid>e7560469-5535-46e1-b693-9faa6b103c8b</webElementGuid>
+      <webElementGuid>eaac07ad-32a4-4a56-aea8-7f298ace2c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>y</name>
       <type>Main</type>
       <value>2727</value>
-      <webElementGuid>f45b5d09-bf2f-44b8-97fe-366dda55269d</webElementGuid>
+      <webElementGuid>befdcb42-6dc8-46c5-855d-4898963f3cfd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>width</name>
       <type>Main</type>
       <value>105</value>
-      <webElementGuid>28d782b6-93f5-4ee6-8f17-31d3486fde89</webElementGuid>
+      <webElementGuid>ff3bfe0d-ae6c-4e0a-a522-8e2165651395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>height</name>
       <type>Main</type>
       <value>105</value>
-      <webElementGuid>491a04b8-505e-4911-94a0-abe60fc52dbd</webElementGuid>
+      <webElementGuid>3f454b9e-2146-4a2e-bfb6-eac3112e06f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>bounds</name>
       <type>Main</type>
       <value>[1236,2727][1341,2832]</value>
-      <webElementGuid>5a0e8538-f631-4bcd-bb96-967d8ca1b927</webElementGuid>
+      <webElementGuid>4c106238-f1cc-4175-8550-19436fb019a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>displayed</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>65a83cda-fc3c-4e69-b99b-9eaf470e6e34</webElementGuid>
+      <webElementGuid>85bb2fa4-9376-425d-82c9-f53cd38870c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -173,7 +173,7 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>31a8a2c5-2350-4c3e-9c5f-128837d6a4b5</webElementGuid>
+      <webElementGuid>2ae4c14c-338c-4d9b-a550-87f7a910d22c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,33 +181,12 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[4]/android.widget.LinearLayout[1]/android.widget.ImageView[1]</value>
-      <webElementGuid>5f3347cb-60b4-4133-a739-65103a0d7f23</webElementGuid>
+      <webElementGuid>757877d2-a04f-4f3c-a7a3-98aab0086fde</webElementGuid>
    </webElementProperties>
    <locator>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.sibisoft.clubnowautomation:id/imgMenu' and (@text = '' or . = '')]</locator>
    <locatorCollection>
       <entry>
-         <key>IOS_CLASS_CHAIN</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>ACCESSIBILITY</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ID</key>
-         <value>com.sibisoft.clubnowautomation:id/imgMenu</value>
-      </entry>
-      <entry>
-         <key>ATTRIBUTES</key>
-         <value>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.sibisoft.clubnowautomation:id/imgMenu' and (@text = '' or . = '')]</value>
-      </entry>
-      <entry>
-         <key>CUSTOM</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>ANDROID_VIEWTAG</key>
-         <value></value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
@@ -218,20 +197,34 @@
          <value>new UiSelector().className(&quot;android.widget.ImageView&quot;).resourceId(&quot;com.sibisoft.clubnowautomation:id/imgMenu&quot;)</value>
       </entry>
       <entry>
+         <key>ATTRIBUTES</key>
+         <value>//*[@class = 'android.widget.ImageView' and @resource-id = 'com.sibisoft.clubnowautomation:id/imgMenu' and (@text = '' or . = '')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//hierarchy/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.LinearLayout[1]/android.widget.FrameLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.RelativeLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[1]/android.widget.LinearLayout[4]/android.widget.LinearLayout[1]/android.widget.ImageView[1]</value>
       </entry>
       <entry>
-         <key>NAME</key>
-         <value></value>
+         <key>IMAGE</key>
       </entry>
       <entry>
-         <key>IMAGE</key>
-         <value></value>
+         <key>IOS_CLASS_CHAIN</key>
+      </entry>
+      <entry>
+         <key>ANDROID_VIEWTAG</key>
+      </entry>
+      <entry>
+         <key>ID</key>
+         <value>com.sibisoft.clubnowautomation:id/imgMenu</value>
+      </entry>
+      <entry>
+         <key>CUSTOM</key>
+      </entry>
+      <entry>
+         <key>NAME</key>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>
