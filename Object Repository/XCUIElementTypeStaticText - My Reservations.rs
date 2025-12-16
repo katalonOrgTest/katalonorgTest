@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MobileElementEntity>
    <description></description>
-   <name>XCUIElementTypeButton - MenuInactive</name>
+   <name>XCUIElementTypeStaticText - My Reservations</name>
    <tag></tag>
    <elementGuidId>00000000-0000-0000-0000-000000000000</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,8 +12,8 @@
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>XCUIElementTypeButton</value>
-      <webElementGuid>779972c5-92cd-49b5-a14b-11b6ff420b0e</webElementGuid>
+      <value>XCUIElementTypeStaticText</value>
+      <webElementGuid>1ee8e3f5-72b3-4ab2-9da8-bc62eb75e9dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -21,7 +21,7 @@
       <name>accessible</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8daa744c-d909-4c01-adcc-18781f55b3d4</webElementGuid>
+      <webElementGuid>080ad877-0761-48b9-b25e-d9bf8108fe3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,15 +29,15 @@
       <name>enabled</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e5a18a2b-4e56-44a8-8697-e27f85fb239d</webElementGuid>
+      <webElementGuid>67528982-5042-4bf2-818d-395cc8e113fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>80.0</value>
-      <webElementGuid>b9dbfac5-52e6-4941-8db9-bab5f284a006</webElementGuid>
+      <value>72.0</value>
+      <webElementGuid>fe5b9523-8a86-4398-a4d4-6a95331c92a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,109 +45,121 @@
       <name>index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>e47a3747-d777-42ab-9726-a7cd5ad9b982</webElementGuid>
+      <webElementGuid>b8fc5c8d-3b79-4901-a17c-68facd13358a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>label</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>71f8b69f-2056-4229-90a0-292e3a22a286</webElementGuid>
+      <value>My Reservations</value>
+      <webElementGuid>d283759f-aec4-44f2-bf03-6b2c85e79d05</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>MenuInactive</value>
-      <webElementGuid>e45d156d-34e5-490e-a653-a69636012941</webElementGuid>
+      <value>My Reservations</value>
+      <webElementGuid>1d09e97d-427a-4656-bc26-b73343ac4bf4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>traits</name>
       <type>Main</type>
-      <value>Button</value>
-      <webElementGuid>d44a77e6-9e10-4bc7-8278-0a5f630d3751</webElementGuid>
+      <value>StaticText</value>
+      <webElementGuid>7bb97d14-44b4-441e-9a35-1949d2ac8737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>My Reservations</value>
+      <webElementGuid>cb131380-4a1f-4d06-ac72-5a9ce0a3f6be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>82.0</value>
-      <webElementGuid>da52e02e-eeb6-4043-940f-1c7288d819bf</webElementGuid>
+      <value>162.0</value>
+      <webElementGuid>d0ad855a-f6e0-4863-8ed1-6e9aa757b3dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>x</name>
       <type>Main</type>
-      <value>666.0</value>
-      <webElementGuid>73359595-c195-4fd0-b511-2268f2f71c06</webElementGuid>
+      <value>82.0</value>
+      <webElementGuid>54cab2d9-db66-4572-a000-59adb53825fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y</name>
       <type>Main</type>
-      <value>1548.0</value>
-      <webElementGuid>ec4a6b05-da10-4552-a2db-c261b71f5c41</webElementGuid>
+      <value>976.0</value>
+      <webElementGuid>6b20876a-b800-46a9-8768-995ce756d324</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
-      <webElementGuid>4f79def2-5d19-4d51-84bc-b44534fe8828</webElementGuid>
+      <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[8]/XCUIElementTypeStaticText[1]</value>
+      <webElementGuid>9d004104-90fd-4a49-86d6-11f2d01fbe3b</webElementGuid>
    </webElementProperties>
-   <locator>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</locator>
+   <locator>//*[@type = 'XCUIElementTypeStaticText' and @label = 'My Reservations' and @name = 'My Reservations' and @value = 'My Reservations']</locator>
    <locatorCollection>
       <entry>
          <key>ID</key>
-         <value>MenuInactive</value>
+         <value>My Reservations</value>
       </entry>
       <entry>
          <key>ANDROID_VIEWTAG</key>
+         <value></value>
       </entry>
       <entry>
          <key>ATTRIBUTES</key>
-         <value>//*[@type = 'XCUIElementTypeButton' and @label = 'MenuInactive' and @name = 'MenuInactive']</value>
+         <value>//*[@type = 'XCUIElementTypeStaticText' and @label = 'My Reservations' and @name = 'My Reservations' and @value = 'My Reservations']</value>
       </entry>
       <entry>
          <key>ACCESSIBILITY</key>
-         <value>MenuInactive</value>
+         <value>My Reservations</value>
       </entry>
       <entry>
          <key>CLASS_NAME</key>
-         <value>XCUIElementTypeButton</value>
+         <value>XCUIElementTypeStaticText</value>
       </entry>
       <entry>
          <key>IOS_PREDICATE_STRING</key>
-         <value>type == 'XCUIElementTypeButton' AND label == 'MenuInactive' AND name == 'MenuInactive'</value>
+         <value>type == 'XCUIElementTypeStaticText' AND label == 'My Reservations' AND name == 'My Reservations' AND name == 'My Reservations'</value>
       </entry>
       <entry>
          <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>NAME</key>
-         <value>MenuInactive</value>
+         <value>My Reservations</value>
       </entry>
       <entry>
          <key>IOS_CLASS_CHAIN</key>
-         <value>**/XCUIElementTypeButton[`label == 'MenuInactive' AND name == 'MenuInactive'`]</value>
+         <value>**/XCUIElementTypeStaticText[`label == 'My Reservations' AND name == 'My Reservations' AND value == 'My Reservations'`]</value>
       </entry>
       <entry>
          <key>CUSTOM</key>
-      </entry>
-      <entry>
-         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[5]/XCUIElementTypeButton[1]</value>
+         <value>//XCUIElementTypeApplication/XCUIElementTypeWindow[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[1]/XCUIElementTypeOther[3]/XCUIElementTypeOther[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeWebView[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[1]/XCUIElementTypeOther[2]/XCUIElementTypeOther[8]/XCUIElementTypeStaticText[1]</value>
+      </entry>
+      <entry>
+         <key>ANDROID_UI_AUTOMATOR</key>
+         <value></value>
       </entry>
    </locatorCollection>
    <locatorStrategy>ATTRIBUTES</locatorStrategy>

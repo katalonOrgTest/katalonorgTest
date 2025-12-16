@@ -17,27 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('iOS/logIn'), [:], FailureHandling.STOP_ON_FAILURE)
+Mobile.startApplication('/Applications/nsplus.app', true)
 
 Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - MenuInactive'), 0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeStaticText - Events Catalogue'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeStaticText - My Reservations'), 0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeImage - event (1)'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - All'), 0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeImage - event'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Upcoming'), 0)
 
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeOther - main'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Choose Days  Times'), 0)
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeStaticText - Add any special requests or comments'), 0)
-
-Mobile.sendKeys(findTestObject('Object Repository/XCUIElementTypeTextView - Add any special requests or comments'), 'multiple reservation')
-
-Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Create Reservation (2)'), 0)
+Mobile.tap(findTestObject('Object Repository/XCUIElementTypeButton - Past'), 0)
 
 Mobile.closeApplication()
 
