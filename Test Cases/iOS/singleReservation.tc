@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Member log in to iOS app.</description>
+   <name>singleReservation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e68802cf-4f2e-4e41-b2dc-479fbca1eb00</testCaseGuid>
+</TestCaseEntity>
