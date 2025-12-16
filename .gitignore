@@ -22,3 +22,6 @@ build
 /.classpath
 .svn/
 .cache/
+
+/appium.log
+/.DS_Store
