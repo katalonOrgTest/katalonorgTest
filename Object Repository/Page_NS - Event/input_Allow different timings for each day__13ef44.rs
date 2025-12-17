@@ -6,15 +6,15 @@
    <elementGuidId>a0a02f5a-5288-4121-8f78-3ca3334a031b</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>[id=&quot;allowDifferentSessionForEachDay&quot;]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//input[@id='allowResOnDiferentSessionOnDifferentDays']</value>
       </entry>
-      <entry>
-         <key>CSS</key>
-         <value>#allowResOnDiferentSessionOnDifferentDays</value>
-      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e9633d02-e9db-41b4-919b-2599c6099012</webElementGuid>
+      <webElementGuid>b4738798-08c3-4f80-a030-33cd06920b40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>name</name>
       <type>Main</type>
       <value>allowResOnDiferentSessionOnDifferentDays</value>
-      <webElementGuid>aa620838-5fe2-4684-9e14-c87241f2b0d8</webElementGuid>
+      <webElementGuid>3878fa27-adfa-4c83-a67a-1cfbc358afab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>11</value>
-      <webElementGuid>e7a85060-5a6d-453b-89d5-3e7c7bc26390</webElementGuid>
+      <webElementGuid>4a9cb18d-72e6-4cef-a95e-2c72f8e6e602</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>86e48954-262f-4257-8bfc-29f4d16a68d5</webElementGuid>
+      <webElementGuid>5c69f22f-3013-4cee-8c8c-baa297b29423</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>allowResOnDiferentSessionOnDifferentDays</value>
-      <webElementGuid>713e216b-2c94-48b4-9f94-365a38ee1175</webElementGuid>
+      <webElementGuid>20161dcf-d1c2-495b-9238-405ebe2f1c36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>_oldvalue</name>
       <type>Main</type>
       <value>unchecked</value>
-      <webElementGuid>0bbc3867-0f4b-42c7-b6fa-6ca950c02233</webElementGuid>
+      <webElementGuid>1b3a1a43-2398-4f06-82df-968cccf763a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;allowResOnDiferentSessionOnDifferentDays&quot;)</value>
-      <webElementGuid>ca76b0ad-9b3b-475f-9bfc-4b102555ab1f</webElementGuid>
+      <webElementGuid>7d87fd44-60a7-4fc6-aa1a-9284b0880a5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_NS - Event/iframe_Confirm_landingFrame</value>
-      <webElementGuid>36f6df1c-c0b5-4ffe-b912-0a6b9453cb21</webElementGuid>
+      <webElementGuid>22c0b919-3b6e-4fe8-9487-1125d50bace5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='allowResOnDiferentSessionOnDifferentDays']</value>
-      <webElementGuid>d61bca48-d25d-4414-8d6c-eca2ade7f284</webElementGuid>
+      <webElementGuid>24b2ef77-8a99-4d2a-abb2-ca37eeb98317</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='allowResOnDiferentSessionOnDifferentDaysDiv']/div/input</value>
-      <webElementGuid>da0c3c31-4ee7-4008-9ee7-49544dc43a95</webElementGuid>
+      <webElementGuid>69ab7977-c762-4356-8c74-9462d31c7fd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/div[6]/div/div/input</value>
-      <webElementGuid>36c6257d-c8f1-4d37-947c-38191588a179</webElementGuid>
+      <webElementGuid>c1a73c49-c84b-4d7a-8a7d-70080792f5b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'allowResOnDiferentSessionOnDifferentDays' and @type = 'checkbox' and @id = 'allowResOnDiferentSessionOnDifferentDays']</value>
-      <webElementGuid>8bbfcb07-84d0-4478-a68b-6280aed90a18</webElementGuid>
+      <webElementGuid>53075a57-9981-4825-bdc9-28fb0c5f18d9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -31,8 +31,6 @@ WebUI.waitForPageLoad(0)
 
 WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_Skip_dropdownMenuButton'))
 
-WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_Skip_dropdownMenuButton'))
-
 WebUI.click(findTestObject('Object Repository/Page_NS - Login/button_DAC'))
 
 WebUI.click(findTestObject('Object Repository/Page_NS - Login/a_DAC'))
@@ -87,12 +85,12 @@ WebUI.click(findTestObject('Page_NS - Test vent 1256/EventSessionDialogueCloseBt
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_NS - Event/span_Event seating has been saved successfully'), 
     0)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_NS - Event/select_----------------Select--------------_7e1b51'), 
-    '1', true)
+WebUI.selectOptionByIndex(findTestObject('Object Repository/Page_NS - Event/select_----------------Select--------------_7e1b51'), 
+    '1', FailureHandling.STOP_ON_FAILURE)
 
-WebUI.acceptAlert()
+not_run: WebUI.acceptAlert()
 
-not_run: WebUI.click(findTestObject('Object Repository/Page_NS - Event/input_Payment Types_saveBtn'))
+WebUI.click(findTestObject('Object Repository/Page_NS - Event/input_Payment Types_saveBtn'))
 
 WebUI.click(findTestObject('Object Repository/Page_NS - Event/a_Guideline'))
 
