@@ -25,4 +25,37 @@
       <testCaseId>Test Cases/Events/Create Event</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>4b6eb2b9-296a-4572-987f-9442f8cd4831</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AP/Create Vendor</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>63a5c910-7ddb-424b-b491-bf96b9c7d64f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AP/Create Payment type with Check Type</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fc2ee0b3-08c3-4349-8b9c-ac5df6a9cfd1</variableId>
+      </variableLinks>
+      <variableLinks>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0a359044-3d52-4a77-b67a-027f21da17da</variableId>
+      </variableLinks>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>752755d3-dc02-4cb6-afbe-7f8b26da7a42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AP/Create Invoice til Finalize</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
